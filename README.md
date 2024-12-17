@@ -35,7 +35,7 @@ Este projeto é um exemplo de como usar WebGL para desenhar e transformar formas
    ```sh
    npm install
    ```
-5. Abra o arquivo `index.html` em um navegador que suporte WebGL.
+5. Abra o arquivo `polygon.html` em um navegador que suporte WebGL.
 
 ## Estrutura do Projeto
 
